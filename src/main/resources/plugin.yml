@@ -1,0 +1,7 @@
+name: Base64Utils
+version: '${version}'
+main: dev.badbird.base64utils.Base64Utils
+api-version: 1.19
+commands:
+  base64toitem:
+    permission: base64utils.command
